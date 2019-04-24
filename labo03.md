@@ -14,3 +14,6 @@ x	  Maak gebruik van de git commando's add en commit om het geüpdatete bestand 
 x	  Zorg ervoor dat je lokale commits gesynchroniseerd worden op deze GitHub repository.
 x	  Maak een screenshot van de gebruikte commando’s
 x	  Na het voltooien van alle taken editeer je deze readme.md file (klik op de file zelf) en plaats alle tasks op voltooid door de markup te wijzigen van [ ] naar [x]. Geef een zinvolle commit message mee als je de wijzigingen commit.
+
+
+pulled content from online repo
